@@ -10,5 +10,8 @@
   * [第一章-變數及資料型態](python3/python3/di-yi-zhang-bian-shu-ji-zi-liao-xing-tai/README.md)
     * [字串](python3/python3/di-yi-zhang-bian-shu-ji-zi-liao-xing-tai/zi-chuan.md)
     * [數值](python3/python3/di-yi-zhang-bian-shu-ji-zi-liao-xing-tai/shu-zhi.md)
-    * [Untitled](python3/python3/di-yi-zhang-bian-shu-ji-zi-liao-xing-tai/untitled-1.md)
+    * [字串與數值](python3/python3/di-yi-zhang-bian-shu-ji-zi-liao-xing-tai/untitled-1.md)
+    * [變數概觀](python3/python3/di-yi-zhang-bian-shu-ji-zi-liao-xing-tai/bian-shu-gai-guan.md)
+    * [註解](python3/python3/di-yi-zhang-bian-shu-ji-zi-liao-xing-tai/zhu-jie.md)
+    * [使用者輸入](python3/python3/di-yi-zhang-bian-shu-ji-zi-liao-xing-tai/shi-yong-zhe-shu-ru.md)
 
