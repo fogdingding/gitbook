@@ -15,7 +15,7 @@
   * [市值營收比](school/money/psr.md)
 * [平台使用教學](school/school-teach/README.md)
   * [簡介](school/school-teach/information.md)
-  * [新增課程](school/school-teach/new_class.md)
+  * [新增課程與章節](school/school-teach/new_class.md)
   * [新增單元](school/school-teach/new_ini.md)
   * [新增測驗、洞察](school/school-teach/test.md)
 * [python3](school/python3/README.md)
