@@ -9,4 +9,6 @@
     * [Hello Word!](python3/python3/di-yi-zhang-gai-guan/bian-shu-ji-ji-ben-zi-liao-xing-tai.md)
   * [第一章-變數及資料型態](python3/python3/di-yi-zhang-bian-shu-ji-zi-liao-xing-tai/README.md)
     * [字串](python3/python3/di-yi-zhang-bian-shu-ji-zi-liao-xing-tai/zi-chuan.md)
+    * [數值](python3/python3/di-yi-zhang-bian-shu-ji-zi-liao-xing-tai/shu-zhi.md)
+    * [Untitled](python3/python3/di-yi-zhang-bian-shu-ji-zi-liao-xing-tai/untitled-1.md)
 
