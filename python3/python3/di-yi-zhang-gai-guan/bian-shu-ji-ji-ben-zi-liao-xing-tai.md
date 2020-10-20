@@ -8,6 +8,8 @@ description: 您的第一隻python3程式
 
 ### Hello Word!
 
+#### 實驗室 - 印出Hello Word!
+
 ```python
 print("Hello Word!")
 ```
@@ -16,6 +18,8 @@ print("Hello Word!")
 是不是很簡單呢？
 
 ### Hello Word! X2
+
+#### 實驗室 - 印出Hello Word! X2
 
 如果今天我們想要輸出 " Hello Word! "  兩次，我們應該怎麼做呢？  
 別擔心，我們只需要多呼叫 "print" 這一隻函數\(Function\)幾次就可以了！
