@@ -4,6 +4,14 @@
 
 ## GAIS SChool <a id="school"></a>
 
+* [財經進階教材-K線圖](school/cai-jing-jin-jie-jiao-caikxian-tu/README.md)
+  * [基本介紹](school/cai-jing-jin-jie-jiao-caikxian-tu/ji-ben-jie-shao/README.md)
+    * [Ｋ線的樣貌](school/cai-jing-jin-jie-jiao-caikxian-tu/ji-ben-jie-shao/xian-de-yang-mao.md)
+    * [均線](school/cai-jing-jin-jie-jiao-caikxian-tu/ji-ben-jie-shao/jun-xian.md)
+    * [缺口](school/cai-jing-jin-jie-jiao-caikxian-tu/ji-ben-jie-shao/que-kou.md)
+  * [Ｋ線圖](school/cai-jing-jin-jie-jiao-caikxian-tu/xian-tu/README.md)
+    * [缺口向上](school/cai-jing-jin-jie-jiao-caikxian-tu/xian-tu/que-kou-xiang-shang.md)
+    * [缺口的種類](school/cai-jing-jin-jie-jiao-caikxian-tu/xian-tu/que-kou-de-zhong-lei.md)
 * [財經基礎教材](school/money/README.md)
   * [本益比](school/money/per.md)
   * [EPS](school/money/eps.md)
