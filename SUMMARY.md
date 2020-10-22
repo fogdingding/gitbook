@@ -91,6 +91,9 @@
     * [繼承](school/python3/7/ji-cheng.md)
     * [修改繼承](school/python3/7/xiu-gai-ji-cheng.md)
     * [類別的風格](school/python3/7/lei-bie-de-feng-ge.md)
-  * [第八章](school/python3/8/README.md)
+  * [第八章-例外](school/python3/8/README.md)
+    * [例外](school/python3/8/li-wai.md)
+    * [建立一個例外](school/python3/8/jian-li-yi-ge-li-wai.md)
     * [例外表](school/python3/8/li-wai-biao.md)
+    * [自定義的例外](school/python3/8/zi-ding-yi-de-li-wai.md)
 
