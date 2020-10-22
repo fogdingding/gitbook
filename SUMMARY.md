@@ -29,6 +29,7 @@
   * [新增課程與章節](school/school-teach/new_class.md)
   * [新增單元](school/school-teach/new_ini.md)
   * [新增測驗、洞察](school/school-teach/test.md)
+* [第八章-](school/8.md)
 * [python3](school/python3/README.md)
   * [第零章-概觀](school/python3/0/README.md)
     * [Hello Word!](school/python3/0/bian-shu-ji-ji-ben-zi-liao-xing-tai.md)
@@ -90,7 +91,6 @@
     * [繼承](school/python3/7/ji-cheng.md)
     * [修改繼承](school/python3/7/xiu-gai-ji-cheng.md)
     * [類別的風格](school/python3/7/lei-bie-de-feng-ge.md)
-  * [第八章-](school/python3/8.md)
-  * [第九章-](school/python3/9.md)
-  * [第十章-](school/python3/10.md)
+  * [第八章](school/python3/8/README.md)
+    * [例外表](school/python3/8/li-wai-biao.md)
 
