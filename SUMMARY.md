@@ -98,3 +98,8 @@
     * [例外表](school/python3/8/li-wai-biao.md)
     * [自定義的例外](school/python3/8/zi-ding-yi-de-li-wai.md)
 
+---
+
+* [紀錄報告](report/README.md)
+  * [ffmpeg](report/ffmpeg.md)
+
